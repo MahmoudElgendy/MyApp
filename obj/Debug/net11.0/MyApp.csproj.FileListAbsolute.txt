@@ -108,3 +108,4 @@ C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\work
 C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net11.0\MyApp.genruntimeconfig.cache
 C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net11.0\ref\MyApp.dll
 C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net11.0\MyApp.csproj.Up2Date
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net11.0\MyApp.sourcelink.json
