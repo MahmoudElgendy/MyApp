@@ -1,0 +1,14 @@
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net8.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.lib.module.js
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net8.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.js
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net8.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.Config.js
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net8.0\dotnet-watch\browser-tools-key.public.json
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net8.0\dotnet-watch\browser-tools-key.private.json
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net8.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfo.cs
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net8.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net8.0\MyApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net8.0\MyApp.RazorAssemblyInfo.cache
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net8.0\MyApp.RazorAssemblyInfo.cs
+C:\Users\MahmoudElgendi\OneDrive - MiView Integrated Solutions, LLC\Desktop\workspace\SampleApp\MyApp\obj\Debug\net8.0\MyApp.sourcelink.json
